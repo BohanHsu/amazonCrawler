@@ -1,0 +1,3 @@
+https://www.amazon.com/Coppertone-WaterBABIES-Sunscreen-Mineral-Spectrum/dp/B074VFV9VF/ref=sr_1_5_a_it?ie=UTF8&qid=1509839407&sr=8-5&keywords=coppertone
+Simple Tear Free Mineral Based Lotion Broad Spectrum SPF 50, 2 Fluid Ounce Travel Size
+reviewId, reviewDate, userId, userName, userLocation, userLink
